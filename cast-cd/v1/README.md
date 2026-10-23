@@ -11,15 +11,16 @@ Python modules converted from `castcd_all_in_one (2).ipynb`.
 - `training.py`: shared training loop, validation, resume and checkpoints.
 - `train.py`: command-line entry point for sequential dataset training.
 
-Run from the repository root:
+From the repository root, enter `cast-cd` first:
 
 ```bash
+cd cast-cd
 python -m pip install -r v1/requirements.txt
 python -m v1.train --help
 python -m v1.train --datasets levir --levir-root /path/to/LEVIR-CD
 ```
 
-To train all three datasets:
+To train all three datasets from inside `cast-cd`:
 
 ```bash
 python -m v1.train --levir-root /path/to/LEVIR-CD --dsifn-root /path/to/DSIFN --wuhan-root /path/to/WUHAN

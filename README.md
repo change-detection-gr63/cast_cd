@@ -1,4 +1,20 @@
-# CAST-CD
+# Group 63
+
+| S.No. | Register Number | Student Name |
+| --- | --- | --- |
+| 1 | CB.SC.U4CSE23602 | Aditya Suresh |
+| 2 | CB.SC.U4CSE23608 | AnanthaSagar N |
+| 3 | CB.SC.U4CSE23641 | Pratyush Yadav |
+| 4 | CB.SC.U4CSE23522 | Karthik P |
+| 5 | CB.SC.U4CSE23551 | Suriakiran B |
+
+**Project Guide:** Dr. Jayakrishnan Anandakrishnan
+
+Assistant Professor, Department of Computer Science and Engineering
+
+**Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, India**
+
+## CAST-CD
 
 **Remote Sensing Image Change Detection · Final-Year Project**
 
@@ -56,15 +72,6 @@ details and a formal citation will be added when available.
 
 The implementation uses **Python** and **PyTorch**, with Torchvision, NumPy,
 OpenCV, Pillow, and tqdm supporting image processing and experimentation.
-
-## Academic Team
-
-Aditya Suresh · Ananthasagar N · Pratyush Yadav · Karthik P · Suriakiran B ·
-Jayakrishnan Anandakrishnan
-
-**Department of Computer Science and Engineering**
-
-Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, India
 
 ## Acknowledgements
 

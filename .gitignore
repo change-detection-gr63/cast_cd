@@ -2,3 +2,6 @@ __pycache__/
 *.py[cod]
 .venv/
 outputs_castcd_*/
+
+# Local research references, chat notes, and unpublished documents
+/reference/
